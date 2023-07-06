@@ -1,0 +1,78 @@
+C:\Users\hauda\OneDrive\Documents\CN.Net tuan 6\quanlifacebook\testquanlifacebook\testquanlifacebook\bin\Debug\testquanlifacebook.exe.config
+C:\Users\hauda\OneDrive\Documents\CN.Net tuan 6\quanlifacebook\testquanlifacebook\testquanlifacebook\bin\Debug\testquanlifacebook.exe
+C:\Users\hauda\OneDrive\Documents\CN.Net tuan 6\quanlifacebook\testquanlifacebook\testquanlifacebook\bin\Debug\testquanlifacebook.pdb
+C:\Users\hauda\OneDrive\Documents\CN.Net tuan 6\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.csproj.AssemblyReference.cache
+C:\Users\hauda\OneDrive\Documents\CN.Net tuan 6\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.Form1.resources
+C:\Users\hauda\OneDrive\Documents\CN.Net tuan 6\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.Properties.Resources.resources
+C:\Users\hauda\OneDrive\Documents\CN.Net tuan 6\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.csproj.GenerateResource.cache
+C:\Users\hauda\OneDrive\Documents\CN.Net tuan 6\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.csproj.CoreCompileInputs.cache
+C:\Users\hauda\OneDrive\Documents\CN.Net tuan 6\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.exe
+C:\Users\hauda\OneDrive\Documents\CN.Net tuan 6\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.pdb
+C:\Users\hauda\.dotnet\CN.Net tuan 6\quanlifacebook\testquanlifacebook\testquanlifacebook\bin\Debug\testquanlifacebook.exe.config
+C:\Users\hauda\.dotnet\CN.Net tuan 6\quanlifacebook\testquanlifacebook\testquanlifacebook\bin\Debug\testquanlifacebook.exe
+C:\Users\hauda\.dotnet\CN.Net tuan 6\quanlifacebook\testquanlifacebook\testquanlifacebook\bin\Debug\testquanlifacebook.pdb
+C:\Users\hauda\.dotnet\CN.Net tuan 6\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.csproj.AssemblyReference.cache
+C:\Users\hauda\.dotnet\CN.Net tuan 6\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.Form1.resources
+C:\Users\hauda\.dotnet\CN.Net tuan 6\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.Properties.Resources.resources
+C:\Users\hauda\.dotnet\CN.Net tuan 6\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.csproj.GenerateResource.cache
+C:\Users\hauda\.dotnet\CN.Net tuan 6\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.csproj.CoreCompileInputs.cache
+C:\Users\hauda\.dotnet\CN.Net tuan 6\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.exe
+C:\Users\hauda\.dotnet\CN.Net tuan 6\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.pdb
+C:\Users\hauda\.dotnet\CN.Net tuan 6\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.Tạo_Tài_Khoản.resources
+C:\Users\hauda\.dotnet\CN.Net tuan 6\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.Sửa_bài_Đăng.resources
+C:\Users\hauda\.dotnet\CN.Net tuan 6\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.Thêm_Bài_Đăng.resources
+C:\Users\hauda\.dotnet\CN.Net tuan 6\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.Xóa_bài_Đăng.resources
+C:\Users\hauda\.dotnet\CN.Net tuan 6\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.Đăng_Tin.resources
+R:\quanlifacebook\testquanlifacebook\testquanlifacebook\bin\Debug\testquanlifacebook.exe.config
+R:\quanlifacebook\testquanlifacebook\testquanlifacebook\bin\Debug\testquanlifacebook.exe
+R:\quanlifacebook\testquanlifacebook\testquanlifacebook\bin\Debug\testquanlifacebook.pdb
+R:\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.csproj.AssemblyReference.cache
+R:\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.csproj.SuggestedBindingRedirects.cache
+R:\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.Sửa_bài_Đăng.resources
+R:\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.Thêm_Bài_Đăng.resources
+R:\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.Tạo_Tài_Khoản.resources
+R:\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.Xóa_bài_Đăng.resources
+R:\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.Form1.resources
+R:\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.Properties.Resources.resources
+R:\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.Đăng_Tin.resources
+R:\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.csproj.GenerateResource.cache
+R:\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.csproj.CoreCompileInputs.cache
+R:\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.exe
+R:\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.pdb
+R:\quanlifacebook\quanlifacebook\testquanlifacebook\testquanlifacebook\bin\Debug\testquanlifacebook.exe.config
+R:\quanlifacebook\quanlifacebook\testquanlifacebook\testquanlifacebook\bin\Debug\testquanlifacebook.exe
+R:\quanlifacebook\quanlifacebook\testquanlifacebook\testquanlifacebook\bin\Debug\testquanlifacebook.pdb
+R:\quanlifacebook\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.csproj.AssemblyReference.cache
+R:\quanlifacebook\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.csproj.SuggestedBindingRedirects.cache
+R:\quanlifacebook\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.Sửa_bài_Đăng.resources
+R:\quanlifacebook\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.Thêm_Bài_Đăng.resources
+R:\quanlifacebook\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.Tạo_Tài_Khoản.resources
+R:\quanlifacebook\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.Xóa_bài_Đăng.resources
+R:\quanlifacebook\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.Form1.resources
+R:\quanlifacebook\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.Properties.Resources.resources
+R:\quanlifacebook\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.Đăng_Tin.resources
+R:\quanlifacebook\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.csproj.GenerateResource.cache
+R:\quanlifacebook\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.csproj.CoreCompileInputs.cache
+R:\quanlifacebook\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.exe
+R:\quanlifacebook\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.pdb
+R:\quanlifacebook\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.Thêm_Bình_Luận.resources
+R:\quanlifacebook\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.Sửa_Bình_Luận.resources
+R:\quanlifacebook\quanlifacebook\testquanlifacebook\testquanlifacebook\obj\Debug\testquanlifacebook.Xoá_Bình_Luận.resources
+C:\Users\hauda\OneDrive\Desktop\testquanlifacebook\bin\Debug\testquanlifacebook.exe.config
+C:\Users\hauda\OneDrive\Desktop\testquanlifacebook\bin\Debug\testquanlifacebook.exe
+C:\Users\hauda\OneDrive\Desktop\testquanlifacebook\bin\Debug\testquanlifacebook.pdb
+C:\Users\hauda\OneDrive\Desktop\testquanlifacebook\obj\Debug\testquanlifacebook.csproj.AssemblyReference.cache
+C:\Users\hauda\OneDrive\Desktop\testquanlifacebook\obj\Debug\testquanlifacebook.Sửa_bài_Đăng.resources
+C:\Users\hauda\OneDrive\Desktop\testquanlifacebook\obj\Debug\testquanlifacebook.Sửa_Bình_Luận.resources
+C:\Users\hauda\OneDrive\Desktop\testquanlifacebook\obj\Debug\testquanlifacebook.Thêm_Bài_Đăng.resources
+C:\Users\hauda\OneDrive\Desktop\testquanlifacebook\obj\Debug\testquanlifacebook.Thêm_Bình_Luận.resources
+C:\Users\hauda\OneDrive\Desktop\testquanlifacebook\obj\Debug\testquanlifacebook.Tạo_Tài_Khoản.resources
+C:\Users\hauda\OneDrive\Desktop\testquanlifacebook\obj\Debug\testquanlifacebook.Xoá_Bình_Luận.resources
+C:\Users\hauda\OneDrive\Desktop\testquanlifacebook\obj\Debug\testquanlifacebook.Xóa_bài_Đăng.resources
+C:\Users\hauda\OneDrive\Desktop\testquanlifacebook\obj\Debug\testquanlifacebook.Form1.resources
+C:\Users\hauda\OneDrive\Desktop\testquanlifacebook\obj\Debug\testquanlifacebook.Properties.Resources.resources
+C:\Users\hauda\OneDrive\Desktop\testquanlifacebook\obj\Debug\testquanlifacebook.Đăng_Tin.resources
+C:\Users\hauda\OneDrive\Desktop\testquanlifacebook\obj\Debug\testquanlifacebook.csproj.GenerateResource.cache
+C:\Users\hauda\OneDrive\Desktop\testquanlifacebook\obj\Debug\testquanlifacebook.csproj.CoreCompileInputs.cache
+C:\Users\hauda\OneDrive\Desktop\testquanlifacebook\obj\Debug\testquanlifacebook.exe
+C:\Users\hauda\OneDrive\Desktop\testquanlifacebook\obj\Debug\testquanlifacebook.pdb
